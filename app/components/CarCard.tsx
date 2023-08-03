@@ -28,7 +28,7 @@ const CarCard = ({ car }: CarCardProps) => {
                 {carRent}
                 <span className='self-end text-[14px] font-medium'>
                     /day
-                </span>
+                </span> 
             </p>
             <div className='relative w-full h-40 my-3 object-contain'>
                 <Image src="/hero.png"
